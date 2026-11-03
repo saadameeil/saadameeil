@@ -4,6 +4,7 @@
 [![الموقع الرسمي](https://img.shields.io/badge/Official%20Website-saadamil.com-d4af37?style=for-the-badge&logo=google-chrome&logoColor=black)](https://saadamil.com)
 [![قيد النقابة](https://img.shields.io/badge/نقابة%20المحامين%20العراقيين-هوية%20188572-10b981?style=for-the-badge)](https://saadamil.com)
 [![مكتب المغتربين](https://img.shields.io/badge/US%20%26%20EU%20Diaspora-Legal%20Desk-8b5cf6?style=for-the-badge)](https://saadamil.com/#diaspora)
+[![Wikidata Knowledge Graph](https://img.shields.io/badge/Wikidata-Q141989381-339999?style=for-the-badge&logo=wikidata&logoColor=white)](https://www.wikidata.org/wiki/Q141989381)
 
 ---
 
