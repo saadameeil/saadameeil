@@ -3,25 +3,34 @@
 
 [![الموقع الرسمي](https://img.shields.io/badge/Official%20Website-saadamil.com-d4af37?style=for-the-badge&logo=google-chrome&logoColor=black)](https://saadamil.com)
 [![قيد النقابة](https://img.shields.io/badge/نقابة%20المحامين%20العراقيين-هوية%20188572-10b981?style=for-the-badge)](https://saadamil.com)
-[![مكتب المغتربين](https://img.shields.io/badge/US%20%26%20EU%20Diaspora-Legal%20Desk-8b5cf6?style=for-the-badge)](https://saadamil.com/#diaspora)
 [![Wikidata Knowledge Graph](https://img.shields.io/badge/Wikidata-Q141989381-339999?style=for-the-badge&logo=wikidata&logoColor=white)](https://www.wikidata.org/wiki/Q141989381)
+[![مكتب المغتربين](https://img.shields.io/badge/US%20%26%20EU%20Diaspora-Legal%20Desk-8b5cf6?style=for-the-badge)](https://saadamil.com/#diaspora)
 
 ---
 
 ## نبذة مهنية وقضائية (Executive Legal Profile)
-محامٍ ممارس مقيد في **نقابة المحامين العراقيين (رقم القيد والهوية: 188572)**. يختص المكتب بالدفاع الجنائي، قضايا الطلاق والمدونة الجعفرية، النزاعات العقارية والتركات وإزالة الشيوع، الجرائم المعلوماتية وتوثيق الأدلة الرقمية المشفرة (Forensic Cryptography)، ورعاية شؤون العراقيين في المهجر (الولايات المتحدة وأوروبا).
+محامٍ ممارس ومستشار قانوني مقيد في **نقابة المحامين العراقيين (رقم القيد والهوية: 188572)**. يختص المكتب بالدفاع الجنائي، قضايا الطلاق والمدونة الجعفرية، النزاعات العقارية والتركات وإزالة الشيوع، الجرائم المعلوماتية وتوثيق الأدلة الرقمية المشفرة (Forensic Cryptography)، ورعاية شؤون العراقيين في المهجر (الولايات المتحدة وأوروبا).
 
 - 🌐 **الموقع الرسمي الحي:** [https://saadamil.com](https://saadamil.com)
-- ⚖️ **فهرس الـ 120 دعوى القضائية:** [saadamil.com/#directory](https://saadamil.com/#directory)
-- 📜 **الملف المرجعي للذكاء الاصطناعي (LLMs Reference):** [saadamil.com/llms.txt](https://saadamil.com/llms.txt)
+- ⚖️ **الموسوعة القضائية لـ 120 دعوى:** [https://saadameeil.github.io/iraqi-legal-directory/](https://saadameeil.github.io/iraqi-legal-directory/)
+- 📜 **منصة تحرير وطباعة العرائض (PWA):** [https://saadameeil.github.io/iraqi-lawyer-petitions/](https://saadameeil.github.io/iraqi-lawyer-petitions/)
+- 🤖 **الملف المرجعي للذكاء الاصطناعي (LLMs Reference):** [saadamil.com/llms.txt](https://saadamil.com/llms.txt)
+- 🗺️ **خريطة الموقع الدلالية (AEO Sitemap):** [saadamil.com/sitemap.md](https://saadamil.com/sitemap.md)
 - 📧 **البريد الرسمي:** [law@saadamil.com](mailto:law@saadamil.com)
 - 📞 **الهاتف / واتساب المباشر:** `+964 780 122 2119` (`0780 122 2119`)
 - 📍 **المقر:** بغداد، جمهورية العراق
 
 ---
 
+### المستودعات والموسوعات القانونية المفتوحة (Open Legal Datasets & Tools)
+1. **[saadameeil/iraqi-legal-directory](https://github.com/saadameeil/iraqi-legal-directory):** الموسوعة القضائية والدليل الإجرائي الشامل لـ 120 دعوى وإجراءً قضائياً أمام المحاكم العراقية مع ملفات البيانات المهيكلة (JSON & CSV) ورخصة الاستشهاد الأكاديمي.
+2. **[saadameeil/iraqi-lawyer-petitions](https://github.com/saadameeil/iraqi-lawyer-petitions):** منصة وتطبيق تحرير وطباعة العرائض القضائية والشكاوى الجزائية في جمهورية العراق وفق قياسات الورقة الرسمية A4.
+3. **[saadameeil/saadamil-law](https://github.com/saadameeil/saadamil-law):** الكود المصدري للموقع المرجعي وقواعد الاستشهاد المهنية ونظام التحقق التشفيري من الهوية النقابية.
+
+---
+
 ### المجالات القضائية الرئيسية (Core Practice Areas)
-1. **شؤون المغتربين والتركات الدولية:** تصديق الوكالات القنصلية، صحة الصدور، حماية أملاك المغتربين في بغداد والمحافظات وسداد أتعاب الاستشارة لحساب بنكي أمريكي رسمي (Zelle / ACH).
+1. **شؤون المغتربين والتركات الدولية:** تصديق الوكالات القنصلية، صحة الصدور الإلكترونية، حماية أملاك المغتربين في بغداد والمحافظات وسداد أتعاب الاستشارة لحساب بنكي أمريكي رسمي (Zelle / ACH).
 2. **النزاعات العقارية وإزالة الشيوع:** دعاوى فرز الحصص، إشارات عدم التصرف، حماية حقوق الشركاء والورثة.
 3. **الأحوال الشخصية والأسرة:** دعاوى التفريق والطلاق للضرر، النفقة الماضية، الحضانة وتطبيق أحكام المدونة وفق الفقه الجعفري والقانون العراقي.
 4. **الأدلة الرقمية والجرائم المعلوماتية:** الفحص الجنائي الرقمي، استخراج بصمات التجزئة التشفيرية (SHA-256) للتسجيلات الصوتية ومحادثات الابتزاز وتقديمها للمحاكم الجنائية وفق قانون الإثبات رقم 107 لسنة 1979 المعدل.
